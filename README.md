@@ -1,16 +1,23 @@
-## Hi there 👋
+# Shubham Dutta
 
-<!--
-**infouxuithinker-jpg/infouxuithinker-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer · React · TypeScript · Product UI
 
-Here are some ideas to get you started:
+I build product-focused web experiences with React and TypeScript. My projects explore SaaS workflows, dashboards, research interfaces, AI product concepts, and social-impact websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Designing and building clear frontend flows for dashboards, onboarding, and account settings.
+- Exploring chatbot and AI product interfaces, from landing pages to interactive management screens.
+- Creating web experiences for social-impact and healthcare product concepts.
+
+## Toolbox
+
+`TypeScript` · `React` · `Vite` · `Tailwind CSS` · `shadcn/ui` · `Supabase` · `React Router` · `TanStack Query` · `Vitest`
+
+## Current focus
+
+Turning early product ideas into well-structured web applications with useful documentation and clear setup steps.
+
+## Project availability
+
+Most project repositories are private while the work is being refined. Public demos and source code will be featured here when they are ready to share.
